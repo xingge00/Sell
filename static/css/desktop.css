@@ -1,0 +1,35 @@
+#app .goods .menu-wrapper{
+	width: 160px;
+	flex:0 0 160px;
+	/* text-align:center; */
+}
+#app .goods .menu-wrapper .menu-item{
+	width:100%
+}
+#app .goods .menu-item .text{
+	font-size: 15px;
+}
+#app .foods-wrapper .food-title{
+	font-size: 18px;
+}
+#app .foods-wrapper .food-item{
+	display: block;
+	width: 200px;
+	height: 300px;
+}
+
+#app .desktop-food-wrapper{
+	display: flex;
+	flex-wrap: wrap;
+}
+#app .foods-wrapper .food-item .icon img{
+	width: 100%;
+	height: 200px;
+}
+#app .header{
+	width: 100%;
+	text-align: center;
+}
+#app .header .content-wrapper{
+	margin: 0 auto;
+}
